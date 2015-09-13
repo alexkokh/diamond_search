@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "get_min_block(cv::Mat const&amp;, cv::Mat const&amp;, int, int, int, int, int, SearchPattern):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "motion_estimation(cv::Mat const&amp;, cv::Mat const&amp;, unsigned int, ME_Precision):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "mvs[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
